@@ -1,0 +1,8 @@
+Classes - If you are not sure what class a value falls into, Python has a function called type which can tell you.
+
+>>> type("Hello, World!")
+<class 'str'>
+>>> type(17)
+<class 'int'>
+
+
