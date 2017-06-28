@@ -1,4 +1,4 @@
-#pig latin generator
+# pig latin generator for python
 
 pyg = 'ay'
 
