@@ -1,4 +1,4 @@
-from random import randint        #need random library
+from random import randint        #need random module
 
 board = []
 
